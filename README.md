@@ -37,7 +37,9 @@ Mi libertad para atacar comienza el Sábado 13 de Octubre a las 0:00 hs y termin
 
 ### 2. Consentimiento
 
-No puedo forzarlos a que me autoricen a hackearlos. Así que quien no quiera participar, tiene tiempo hasta el Sábado 13. Para ese entonces, asumo que todo aquel que no me dijo que no quiere participar es porque quiere participar. Y me da el consentimiento para hackearlos.
+No puedo forzarlos a que me autoricen a hackearlos. Así que quien no quiera participar, tiene tiempo hasta antes del Sábado 13 para avisarme. El aviso tiene que ser por email a <me@diegofreijo.com>.
+
+A partir del Sábado 13 voy a asumir que todo aquel que no me dijo que no quiere participar es porque quiere participar. Y me da el consentimiento para hackearlos.
 
 Quienes no acepten el TP van a reemplazarlo por otro enunciado que aún no armé. Va a incluir una pequeña investigación sobre ingeniería social que después expondrán en clase.
 
@@ -49,7 +51,7 @@ Voy a hacer una cantidad `x` de ataques, de los cuales van a tener que resistir 
 
 Para considerar que resistieron el ataque van a tener que suceder dos cosas:
   1. No caer en mi trampa
-  2. Mandarme un mail a <me@diegofreijo.com> contándome: 
+  2. Mandarme un mail a <me@diegofreijo.com> contándome:
     1. qué les quise hacer
     2. que daño les podría haber hecho
     3. cómo se dieron cuenta del engaño.
