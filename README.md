@@ -33,13 +33,13 @@ Pero mi ataque no va a ser indiscriminado. Como hacker de sombrero blanco que so
 
 ### 1. Fechas
 
-Mi libertad para atacar comienza el Sábado 13 de Octubre a las 0:00 hs y termina el Miércoles 20 de Noviembre a las 23:59 hs. No tengo permiso para hacerles nada fuera de ese rango.
+Mi libertad para atacar comienza el Sábado 12 de Octubre a las 0:00 hs y termina el Miércoles 20 de Noviembre a las 23:59 hs. No tengo permiso para hacerles nada fuera de ese rango.
 
 ### 2. Consentimiento
 
-No puedo forzarlos a que me autoricen a hackearlos. Así que quien no quiera participar, tiene tiempo hasta antes del Sábado 13 para avisarme. El aviso tiene que ser por email a <me@diegofreijo.com>.
+No puedo forzarlos a que me autoricen a hackearlos. Así que quien no quiera participar, tiene tiempo hasta antes del Sábado 12 para avisarme. El aviso tiene que ser por email a <me@diegofreijo.com>.
 
-A partir del Sábado 13 voy a asumir que todo aquel que no me dijo que no quiere participar es porque quiere participar. Y me da el consentimiento para hackearlos.
+A partir del Sábado 12 voy a asumir que todo aquel que no me dijo que no quiere participar es porque quiere participar. Y me da el consentimiento para hackearlos.
 
 Quienes no acepten el TP van a reemplazarlo por otro enunciado que aún no armé. Va a incluir una pequeña investigación sobre ingeniería social que después expondrán en clase.
 
