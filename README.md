@@ -51,10 +51,12 @@ Voy a hacer una cantidad `x` de ataques, de los cuales van a tener que resistir 
 
 Para considerar que resistieron el ataque van a tener que suceder dos cosas:
   1. No caer en mi trampa
-  2. Mandarme un mail a <me@diegofreijo.com> contándome:
-    1. qué les quise hacer
-    2. que daño les podría haber hecho
-    3. cómo se dieron cuenta del engaño.
+  2. Mandarme un mail a <me@diegofreijo.com> contándome los detalles del ataque
+    
+En el mail tienen que poner, brevemente:
+  1. qué les quise hacer
+  2. que daño les podría haber hecho
+  3. cómo se dieron cuenta del engaño.
 
 Quien no llegue a resistir `y` cantidad de ataques, va a "desaprobar" el TP. En realidad le va a quedar un 6, pero van a tener que exponer algo más en el final. Además de lo que ya iban a tener que exponer.
 
